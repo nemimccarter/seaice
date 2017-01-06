@@ -1,4 +1,3 @@
-"Year","Month","Day","Extent","Missing","Source Data","hemisphere"
 "1978","10","26","10.231","0.000","ftp://sidads.colorado.edu/pub/DATASETS/nsidc0051_gsfc_nasateam_seaice/final-gsfc/north/daily/1978/nt_19781026_n07_v1.1_n.bin","north"
 "1978","10","28","10.420","0.000","ftp://sidads.colorado.edu/pub/DATASETS/nsidc0051_gsfc_nasateam_seaice/final-gsfc/north/daily/1978/nt_19781028_n07_v1.1_n.bin","north"
 "1978","10","30","10.557","0.000","ftp://sidads.colorado.edu/pub/DATASETS/nsidc0051_gsfc_nasateam_seaice/final-gsfc/north/daily/1978/nt_19781030_n07_v1.1_n.bin","north"
