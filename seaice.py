@@ -3,7 +3,8 @@ import matplotlib.pyplot as plt
 
 seaice_file = open('seaice.csv')
 file_reader = csv.reader(seaice_file) # reader object
-seaice_data = list(file_reader) # dictionary of csv data
+seaice_data = list(file_reader) # list of csv data
+# seaice_data.sort()
 years = []
 extents = []
 extent_yearly_avg = []
