@@ -16,3 +16,6 @@ Next, I want to make some prediction models and see which reaches the highest ac
  
  # Works Cited
  Cavalieri, D. J., C. L. Parkinson, P. Gloersen, and H. J. Zwally. 1996, updated yearly. Sea Ice Concentrations from Nimbus-7 SMMR and DMSP SSM/I-SSMIS Passive Microwave Data, Version 1. Boulder, Colorado USA. NASA National Snow and Ice Data Center Distributed Active Archive Center. doi: http://dx.doi.org/10.5067/8GQ8LZQVL0VL. Accessed 22 December 2016.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNjUwOTQ5NjNdfQ==
+-->
